@@ -2,5 +2,5 @@
 
 ## Main repositories
 
-- [datatug-cli](/datatug/datatug-cli) - CLI & agent for https://datatug.app
-- [datatug-core](/datatug/datatug-core) - core DataTug Go packages
+- [datatug-cli](https://github.com/datatug/datatug-cli) - CLI & agent for https://datatug.app
+- [datatug-core](https://github.com/datatug/datatug-core) - core DataTug Go packages
