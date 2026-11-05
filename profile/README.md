@@ -2,11 +2,11 @@
 
 ## Watch
 
-<a href="https://youtu.be/Dkq1uoMZa5E"><img src="https://datatug.app/static/illustrations/datatug-in-30-poster-1280.webp" alt="DataTug in 30 seconds: every database, one workspace (0:30)" width="560"></a>
+<a href="https://youtu.be/P8c-uw29XyE"><img src="https://datatug.app/static/illustrations/datatug-in-30-poster-1280.webp" alt="DataTug in 30 seconds: every database, one workspace (0:30)" width="560"></a>
 
-▶ **[Watch DataTug in 30 seconds (0:30)](https://youtu.be/Dkq1uoMZa5E)**
+▶ **[Watch DataTug in 30 seconds (0:30)](https://youtu.be/P8c-uw29XyE)**
 
-[Intro (1:01)](https://youtu.be/tjOzdzB_PGA)
+[Intro (1:01)](https://youtu.be/8-KHMVIe1S0)
 
 More videos: [datatug.app/en/videos](https://datatug.app/en/videos/)
 
