@@ -6,7 +6,7 @@
 
 ▶ **[Watch DataTug in 30 seconds (0:30)](https://youtu.be/P8c-uw29XyE)**
 
-[Intro (1:01)](https://youtu.be/ZtpVrFJlVEM)
+[Intro (1:01)](https://youtu.be/8-KHMVIe1S0)
 
 More videos: [datatug.app/en/videos](https://datatug.app/en/videos/)
 
